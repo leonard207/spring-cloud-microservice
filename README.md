@@ -1,5 +1,4 @@
-https://travis-ci.org/leonard207/spring-cloud-microservice.svg?branch=master
-# spring-cloud-microservice
+# spring-cloud-microservice[![Build Status](https://travis-ci.org/leonard207/spring-cloud-microservice.svg?branch=master)](https://travis-ci.org/leonard207/spring-cloud-microservice)
 
 ## 项目说明
 
