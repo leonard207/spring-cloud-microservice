@@ -1,3 +1,4 @@
+https://travis-ci.org/leonard207/spring-cloud-microservice.svg?branch=master
 # spring-cloud-microservice
 
 ## 项目说明
