@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud-config'
+include 'discovery-service'
+include 'config-service'
