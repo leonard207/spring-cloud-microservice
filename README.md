@@ -9,6 +9,16 @@
 * Java 1.8
 * Gradle 2.x
 
+### 项目模块介绍
+
+Module            | Description
+------------------|--------------
+config-service    | 中心配置服务
+discovery-service | 服务注册发现中心
+bookstore         | 微服务提供者
+reading           | 微服务消费者
+
+
 ### spring-cloud组件
 
 Component         | Description
