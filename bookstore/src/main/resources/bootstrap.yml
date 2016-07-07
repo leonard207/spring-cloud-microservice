@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: bookstore-service
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: config-service
+  profiles:
+    active: production
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

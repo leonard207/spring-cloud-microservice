@@ -1,0 +1,11 @@
+server:
+  port: 8091
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+
+ribbon:
+  eureka:
+    enabled: true
