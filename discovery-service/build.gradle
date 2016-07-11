@@ -1,4 +1,4 @@
-group 'spring-cloud-config'
+group 'spring-cloud-microservice'
 version '1.0-SNAPSHOT'
 
 buildscript {

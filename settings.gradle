@@ -3,4 +3,5 @@ include 'discovery-service'
 include 'config-service'
 include 'reading'
 include 'bookstore'
+include 'hystrix-dashboard'
 
