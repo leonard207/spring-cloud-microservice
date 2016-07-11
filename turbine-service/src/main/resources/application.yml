@@ -1,0 +1,11 @@
+server:
+  port: 8989
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+
+turbine:
+  appConfig: bookstore-service,reading-service
+  clusterNameExpression: 'default'

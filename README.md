@@ -17,6 +17,8 @@ config-service    | 中心配置服务
 discovery-service | 服务注册发现中心
 bookstore         | 微服务提供者
 reading           | 微服务消费者
+hystrix-dashboard | 服务容错控制台
+turbine           | 容错数据聚合
 
 
 ### spring-cloud组件
