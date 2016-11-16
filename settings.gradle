@@ -5,4 +5,5 @@ include 'reading'
 include 'bookstore'
 include 'hystrix-dashboard'
 include 'turbine-service'
+include 'edge-service'
 

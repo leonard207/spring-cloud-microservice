@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+ribbon:
+  eureka:
+    enabled: true
+
+zuul:
+  routes:
+    bookstore-service:
+      path: /service/bookstore/**
+      serviceId: bookstore-service
+    reading-service:
+      path: /service/reading/**
+      serviceId: reading-service
+
+security:
+  user:
+    name: leonard
+    password: 123456
