@@ -7,7 +7,7 @@
 ## 开发环境
 
 * Java 1.8
-* Gradle 2.x
+* Gradle 3.x
 
 ### 项目模块介绍
 
@@ -17,13 +17,13 @@ config-service    | 中心配置服务
 discovery-service | 服务注册发现中心
 bookstore         | 微服务提供者
 reading           | 微服务消费者
-hystrix-dashboard | 服务容错控制台
+hystrix-dashboard | 服务容错控制台 
 turbine           | 容错数据聚合
 
 
 ### spring-cloud组件
 
-Component         | Description
+Component         | Description     
 ------------------|--------------
 config            | 中心配置服务
 eureka            | 服务注册发现中心
