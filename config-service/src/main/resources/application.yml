@@ -7,3 +7,8 @@ spring:
       server:
         git:
           uri: https://github.com/leonard207/config-repo.git
+
+
+logging:
+  level:
+    ROOT: DEBUG

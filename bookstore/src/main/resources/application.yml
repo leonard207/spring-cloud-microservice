@@ -1,2 +1,10 @@
+spring:
+  redis:
+     host: ${redis.host}
+     port: ${redis.port}
+
 server:
   port: 8099
+  undertow:
+    #io-threads: ${undertow.io-threads}
+    #worker-threads: ${undertow.worker-threads}
