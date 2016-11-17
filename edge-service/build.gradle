@@ -44,7 +44,8 @@ dependencyManagement {
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-undertow'
-    compile 'org.springframework.boot:spring-boot-starter-security'
+    //compile 'org.springframework.boot:spring-boot-starter-security'
+    compile 'org.springframework.cloud:spring-cloud-security'
     compile 'org.springframework.cloud:spring-cloud-starter-eureka'
     compile 'org.springframework.cloud:spring-cloud-starter-zuul'
 }
