@@ -3,6 +3,7 @@ package com.leonard.bookstore;
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.integration.handler.support.HandlerMethodArgumentResolversHolder;
 
 /**
  * Created by Leonard on 2016/7/7.
