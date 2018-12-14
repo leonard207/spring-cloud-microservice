@@ -8,7 +8,7 @@ import org.springframework.integration.handler.support.HandlerMethodArgumentReso
 /**
  * Created by Leonard on 2016/7/7.
  */
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 @SpringCloudApplication
 public class BookstoreApplication {
 
